@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.WriteLine("Ok ok uhm uhm now like uhm input a numbie and i will displays its negation using the unary minus operator!!!!!!1!!!!");
 
-Console.WriteLine("Hello, World!");
+int userInput = int.Parse(Console.ReadLine());
+int negation = -userInput;
+
+Console.WriteLine($"Uhm uhm the answer is {userInput}!!!");
