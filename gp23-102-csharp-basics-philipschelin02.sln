@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_01SpeedConverter", "P09_01SpeedConverter\P09_01SpeedConverter.csproj", "{B34CC0BF-C170-4B54-9442-1322A0AFD597}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_02MinutesToSeconds", "P09_02MinutesToSeconds\P09_02MinutesToSeconds.csproj", "{5324FBD5-582E-483A-85F6-55AF90B3B9BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B34CC0BF-C170-4B54-9442-1322A0AFD597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34CC0BF-C170-4B54-9442-1322A0AFD597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34CC0BF-C170-4B54-9442-1322A0AFD597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5324FBD5-582E-483A-85F6-55AF90B3B9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5324FBD5-582E-483A-85F6-55AF90B3B9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5324FBD5-582E-483A-85F6-55AF90B3B9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5324FBD5-582E-483A-85F6-55AF90B3B9BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
