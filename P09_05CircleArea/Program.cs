@@ -3,5 +3,5 @@
 string input = Console.ReadLine();
 float numberInput = float.Parse(input);
 
-float i = numberInput * 3.14f;
+float i = (numberInput * numberInput) * 3.14f;
 Console.WriteLine($"omg the answer is {i}!!!!");
