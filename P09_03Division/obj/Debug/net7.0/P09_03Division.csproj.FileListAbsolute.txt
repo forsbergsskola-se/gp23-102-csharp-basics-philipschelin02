@@ -1,0 +1,15 @@
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\bin\Debug\net7.0\P09_03Division.exe
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\bin\Debug\net7.0\P09_03Division.deps.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\bin\Debug\net7.0\P09_03Division.runtimeconfig.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\bin\Debug\net7.0\P09_03Division.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\bin\Debug\net7.0\P09_03Division.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.csproj.AssemblyReference.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.AssemblyInfoInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.AssemblyInfo.cs
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\refint\P09_03Division.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\P09_03Division.genruntimeconfig.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_03Division\obj\Debug\net7.0\ref\P09_03Division.dll
