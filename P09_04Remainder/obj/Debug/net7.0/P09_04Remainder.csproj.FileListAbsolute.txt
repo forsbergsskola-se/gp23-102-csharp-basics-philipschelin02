@@ -1,0 +1,15 @@
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\bin\Debug\net7.0\P09_04Remainder.exe
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\bin\Debug\net7.0\P09_04Remainder.deps.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\bin\Debug\net7.0\P09_04Remainder.runtimeconfig.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\bin\Debug\net7.0\P09_04Remainder.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\bin\Debug\net7.0\P09_04Remainder.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.csproj.AssemblyReference.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.AssemblyInfoInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.AssemblyInfo.cs
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\refint\P09_04Remainder.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\P09_04Remainder.genruntimeconfig.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_04Remainder\obj\Debug\net7.0\ref\P09_04Remainder.dll
