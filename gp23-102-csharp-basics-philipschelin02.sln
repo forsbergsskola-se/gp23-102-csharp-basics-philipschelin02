@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_08BMI", "P09_08BMI\P09_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_09Hypotenuse", "P09_09Hypotenuse\P09_09Hypotenuse.csproj", "{B2CD17F2-6096-400F-AFAF-EA9B4EF4B7AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_10SecondsToMinutes", "P09_10SecondsToMinutes\P09_10SecondsToMinutes.csproj", "{DE1672B8-4192-4713-BA58-0094A942B419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{B2CD17F2-6096-400F-AFAF-EA9B4EF4B7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CD17F2-6096-400F-AFAF-EA9B4EF4B7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CD17F2-6096-400F-AFAF-EA9B4EF4B7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE1672B8-4192-4713-BA58-0094A942B419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE1672B8-4192-4713-BA58-0094A942B419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE1672B8-4192-4713-BA58-0094A942B419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE1672B8-4192-4713-BA58-0094A942B419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
