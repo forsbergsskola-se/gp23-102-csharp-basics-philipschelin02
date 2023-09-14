@@ -2,6 +2,7 @@
 
 var random = new Random();
 int aiChoice = random.Next(1, 100);
+int playerTries = 0;
 
 Console.WriteLine("Aight, buddy. Lemme be honest with ya, ya owe us quite a fat load a' cash. You nevah paid up, nor did ya ever have the intention to.");
 Console.WriteLine("As a result, we sorry, but this had ta' happen. Don's orders.");
@@ -34,22 +35,29 @@ string userAnswer = Console.ReadLine();
 }
 
 GAME:
-
 int guessedNumber = Int32.Parse(Console.ReadLine());
 int againGuessedNumber = Convert.ToInt32(guessedNumber);
+if (playerTries == 10)
+{
+    Console.WriteLine("That's ten tries, friend. You didn't guess right a single time. I'm sorry it's come to this, but rules're rules, buddy. See ya on the otha side.");
+    Console.WriteLine("*The last thing you see is the end of a rifle being aimed right up to your face, before your vision goes all-black.*");
+    return;
+}
 {
     if (guessedNumber > aiChoice)
     {
         Console.WriteLine("Nuh-uh, buddy. Mah numba's lowa'.");
+        playerTries++;
         goto GAME;
     }
     
     if (guessedNumber < aiChoice)
     {
-        Console.WriteLine("Naw, friend. Try aimin' a lil' higher, eh?");
+        Console.WriteLine("Naw, friend. Higher.");
+        playerTries++;
         goto GAME;
     }
-    
+
     if (guessedNumber == aiChoice)
     {
         Console.WriteLine("Well, friend. Looks like it's ya lucky day, for ya guessed correctly. Congratulations. Before we return ya to yous family, tho, we gotta make sure ya undahstood our message.");
