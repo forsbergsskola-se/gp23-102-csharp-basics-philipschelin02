@@ -1,0 +1,15 @@
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\bin\Debug\net7.0\P09_Operators.exe
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\bin\Debug\net7.0\P09_Operators.deps.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\bin\Debug\net7.0\P09_Operators.runtimeconfig.json
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\bin\Debug\net7.0\P09_Operators.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\bin\Debug\net7.0\P09_Operators.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.csproj.AssemblyReference.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.AssemblyInfoInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.AssemblyInfo.cs
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\refint\P09_Operators.dll
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.pdb
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\P09_Operators.genruntimeconfig.cache
+C:\Projects\gp23-102-csharp-basics-philipschelin02\P09_Operators\obj\Debug\net7.0\ref\P09_Operators.dll
