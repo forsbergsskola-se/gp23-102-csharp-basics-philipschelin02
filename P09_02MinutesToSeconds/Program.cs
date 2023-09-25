@@ -3,4 +3,4 @@
 string input = Console.ReadLine();
 float numberInput = float.Parse(input);
 float i = numberInput * 60;
-Console.WriteLine($"omg thats {i} seconds i am so smart!!!");
+Console.WriteLine($"omg that's {i} seconds i am so smart!!!");
