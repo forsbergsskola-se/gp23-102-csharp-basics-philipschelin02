@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 Console.WriteLine("Ok ok uhm uhm now like uhm input a numbie (radius) and i will calculate the area of a circle using it!!!!!!1!!!!");
 
 string input = Console.ReadLine();
