@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Pls gib km/h input and i'll convert to m/s!!!!");
+﻿using System;
+
+Console.WriteLine("Pls gib km/h input and i'll convert to m/s!!!!");
 
 string input = Console.ReadLine();
 float numberInput = float.Parse(input);

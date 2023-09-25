@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Ok ok uhm uhm now like uhm input minutes and I will convert to secondies!!!!");
+﻿using System;
+
+Console.WriteLine("Ok ok uhm uhm now like uhm input minutes and I will convert to secondies!!!!");
 
 string input = Console.ReadLine();
 float numberInput = float.Parse(input);

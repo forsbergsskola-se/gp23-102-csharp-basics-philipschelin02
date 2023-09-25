@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Ok ok uhm uhm now like uhm input ur height n weight and i will calculate ur bmi11!!!!!!1!!!!");
+﻿using System;
+
+Console.WriteLine("Ok ok uhm uhm now like uhm input ur height n weight and i will calculate ur bmi11!!!!!!1!!!!");
 
 Console.WriteLine("Ok height in meters pls!!!");
 string height = Console.ReadLine();

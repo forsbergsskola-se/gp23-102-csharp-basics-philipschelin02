@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Ok ok uhm uhm now like uhm input two numbiess and i will divide them!!!!!!1!!!!");
+﻿using System;
+
+Console.WriteLine("Ok ok uhm uhm now like uhm input two numbiess and i will divide them!!!!!!1!!!!");
 
 Console.WriteLine("Gib first!!!");
 string input1 = Console.ReadLine();

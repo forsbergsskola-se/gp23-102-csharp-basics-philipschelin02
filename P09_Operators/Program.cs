@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Ok ok ok uhm final exercise uhmmm so liek gimme a numbie of seconds?!?!?!?");
+﻿using System;
+
+Console.WriteLine("Ok ok ok uhm final exercise uhmmm so liek gimme a numbie of seconds?!?!?!?");
 
 int seconds = int.Parse(Console.ReadLine());
 float totalDays = (float)seconds / 86400;

@@ -1,5 +1,4 @@
-﻿using System.Formats.Asn1;
-
+﻿using System;
 var random = new Random();
 int aiChoice = random.Next(1, 100);
 int playerTries = 0;
